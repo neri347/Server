@@ -1,0 +1,14 @@
+C:\Server\ServerCore\bin\Debug\net8.0\ServerCore.exe
+C:\Server\ServerCore\bin\Debug\net8.0\ServerCore.deps.json
+C:\Server\ServerCore\bin\Debug\net8.0\ServerCore.runtimeconfig.json
+C:\Server\ServerCore\bin\Debug\net8.0\ServerCore.dll
+C:\Server\ServerCore\bin\Debug\net8.0\ServerCore.pdb
+C:\Server\ServerCore\obj\Debug\net8.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfoInputs.cache
+C:\Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfo.cs
+C:\Server\ServerCore\obj\Debug\net8.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Server\ServerCore\obj\Debug\net8.0\ServerCore.dll
+C:\Server\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
+C:\Server\ServerCore\obj\Debug\net8.0\ServerCore.pdb
+C:\Server\ServerCore\obj\Debug\net8.0\ServerCore.genruntimeconfig.cache
+C:\Server\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0668E2DF-E591-4D64-8E23-D88648622BF9}|ServerCore\\ServerCore.csproj|c:\\server\\servercore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0668E2DF-E591-4D64-8E23-D88648622BF9}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0668E2DF-E591-4D64-8E23-D88648622BF9}|ServerCore\\ServerCore.csproj|c:\\server\\servercore\\readerwriterlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0668E2DF-E591-4D64-8E23-D88648622BF9}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\readerwriterlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9587993-D635-41E8-8583-46B3A8F27A55}|Server\\Server.csproj|c:\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9587993-D635-41E8-8583-46B3A8F27A55}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6192D677-B8A9-40D3-AB05-FA8E5DF1970A}|DummyClient\\DummyClient.csproj|c:\\server\\dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6192D677-B8A9-40D3-AB05-FA8E5DF1970A}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReaderWriterLock.cs",
+              "DocumentMoniker": "C:\\Server\\ServerCore\\ReaderWriterLock.cs",
+              "RelativeDocumentMoniker": "ServerCore\\ReaderWriterLock.cs",
+              "ToolTip": "C:\\Server\\ServerCore\\ReaderWriterLock.cs",
+              "RelativeToolTip": "ServerCore\\ReaderWriterLock.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwCMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:49:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Server\\DummyClient\\Program.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Program.cs",
+              "ToolTip": "C:\\Server\\DummyClient\\Program.cs",
+              "RelativeToolTip": "DummyClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:37:49.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Server\\ServerCore\\Program.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Program.cs",
+              "ToolTip": "C:\\Server\\ServerCore\\Program.cs",
+              "RelativeToolTip": "ServerCore\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:37:05.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:35:59.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
