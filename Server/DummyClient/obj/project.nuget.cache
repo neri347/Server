@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A02M7WlWuso=",
+  "dgSpecHash": "KChPycVR6oA=",
   "success": true,
-  "projectFilePath": "C:\\Server\\DummyClient\\DummyClient.csproj",
+  "projectFilePath": "C:\\Server_Inflearn\\Server\\DummyClient\\DummyClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

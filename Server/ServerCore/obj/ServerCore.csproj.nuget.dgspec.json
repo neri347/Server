@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Server\\ServerCore\\ServerCore.csproj": {}
+    "C:\\Server_Inflearn\\Server\\ServerCore\\ServerCore.csproj": {}
   },
   "projects": {
-    "C:\\Server\\ServerCore\\ServerCore.csproj": {
+    "C:\\Server_Inflearn\\Server\\ServerCore\\ServerCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Server\\ServerCore\\ServerCore.csproj",
+        "projectUniqueName": "C:\\Server_Inflearn\\Server\\ServerCore\\ServerCore.csproj",
         "projectName": "ServerCore",
-        "projectPath": "C:\\Server\\ServerCore\\ServerCore.csproj",
+        "projectPath": "C:\\Server_Inflearn\\Server\\ServerCore\\ServerCore.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Server\\ServerCore\\obj\\",
+        "outputPath": "C:\\Server_Inflearn\\Server\\ServerCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
